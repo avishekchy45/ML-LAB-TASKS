@@ -1,16 +1,16 @@
-# -LAB-TASKS
+# ML-LAB-TASKS
 
-##### This repository is for "" lab tasks and assignments
+##### This repository is for "Machine Learning" lab tasks and assignments
 ---
 
-**Course Code** : (V3)
+**Course Code** : CSE 457(V3)
 
-**Course Title** :  Laboratory
+**Course Title** :  Machine Learning Laboratory
 
-**Course Teacher** : 
+**Course Teacher** : Taufique Sayeed
 
-**Session** : 
+**Session** : Spring 2022
 
-**Course Description** : 
+**Course Description** : This course is an introductory course on machine learning which gives an overview of many concepts, techniques, and algorithms in machine learning, beginning with topics such as classification and linear regression and ending up with more recent topics such as boosting, support vector machines, hidden Markov models, and Bayesian networks.
 
 ---
