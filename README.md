@@ -3,7 +3,7 @@
 ##### This repository is for "Machine Learning" lab tasks and assignments
 ---
 
-**Course Code** : CSE 457(V3)
+**Course Code** : CSE 458(V3)
 
 **Course Title** :  Machine Learning Laboratory
 
