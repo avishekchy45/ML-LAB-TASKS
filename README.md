@@ -7,7 +7,7 @@
 
 **Course Title** :  Machine Learning Laboratory
 
-**Course Teacher** : Taufique Sayeed
+**Course Teacher** : Dr. Taufique Sayeed
 
 **Session** : Spring 2022
 
