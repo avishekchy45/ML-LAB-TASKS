@@ -1,0 +1,11 @@
+Cognito_myidentitypoolAuth_Role
+
+Cognito_myidentitypoolUnauth_Role
+
+us-east-1:aedb723b-ebcd-481a-bf4b-ad0096b10e57
+
+ml_lab_bot
+
+lexlab6-190922
+
+http://lexlab6-190922.s3-website-us-east-1.amazonaws.com/
